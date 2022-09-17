@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
+![greetings](https://user-images.githubusercontent.com/60159274/190869473-ca20562b-f547-453d-930f-ff214b15828a.gif)
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -13,6 +15,7 @@
 <h2 align="left">About me</h2>
 
 ###
+
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
