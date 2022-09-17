@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+### <div align="center">I'm David, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
 
 ###
 
