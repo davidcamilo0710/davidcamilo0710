@@ -30,9 +30,9 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My skill set</h2>
 
-### <div align="center">Data science🚀</div>  
+### <div align="center">Data Science🚀</div>  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
