@@ -37,6 +37,7 @@
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="30" width="33" alt="keras logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" width="33" alt="scikit learn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo"  />
