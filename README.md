@@ -9,7 +9,7 @@
 ###
 
 
-<p align="left">📚 I'm currently learning DevOps Distributed Systems & Spring Boot Microservices....<br>🎯 I’m currently contributing to my personal projects</p>
+<p align="left">📚 I'm currently learning DevOps Distributed Systems & Spring Boot Microservices. <br>🎯 I’m currently contributing to my personal projects.</p>
 
 ###
 
