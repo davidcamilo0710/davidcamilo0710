@@ -4,7 +4,7 @@
 
 ###
 
-### <div align="center">I'm David, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm David, Data Scientist, Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
 
 ###
 
