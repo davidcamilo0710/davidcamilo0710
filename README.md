@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/davidcamilo0710/davidcamilo0710)](https://badges.pufler.dev/visits/davidcamilo0710/davidcamilo0710)
 <h1 align="center"><b>Hi, I'm David Muñoz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=3670A0&size=25&center=true&vCenter=true&width=800&height=100&lines=Senior+Data+Scientist;AI+Specialist;MLOps+Engineer;Passionate+about+building+intelligent+systems"></a>
@@ -31,6 +30,7 @@ I'm a **Senior Data Scientist and AI Specialist** passionate about designing, de
 #### 🤖 AI & Machine Learning
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -41,11 +41,11 @@ I'm a **Senior Data Scientist and AI Specialist** passionate about designing, de
 
 #### 🛠️ Data Engineering & MLOps
 <p align="center">
-    <img src="https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonsagemaker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Make-6B18FF?style=for-the-badge&logo=make&logoColor=white" />
     <img src="https://img.shields.io/badge/n8n-1A825A?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
@@ -53,10 +53,10 @@ I'm a **Senior Data Scientist and AI Specialist** passionate about designing, de
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 #### 💻 Programming & Databases
@@ -72,12 +72,8 @@ I'm a **Senior Data Scientist and AI Specialist** passionate about designing, de
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 Top Languages
 <p align="center">
-  <a href="https://github.com/davidcamilo0710">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcamilo0710&show_icons=true&theme=dark&locale=en" alt="davidcamilo0710" />
-  </a>
   <a href="https://github.com/davidcamilo0710">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcamilo0710&layout=compact&theme=dark&locale=en" alt="davidcamilo0710" />
   </a>
