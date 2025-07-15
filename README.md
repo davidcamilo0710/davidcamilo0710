@@ -1,93 +1,94 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/60159274/190869473-ca20562b-f547-453d-930f-ff214b15828a.gif" align="center" style="width: 100%" />
-</div>
-
-<div align="center">
-
-# Hi, I'm David 👋
-
-### Senior Data Scientist & AI Specialist
-
-<p>
-  Passionate about building intelligent, scalable systems from end to end. My expertise lies in the complete MLOps lifecycle, from Deep Learning and Large Language Models (LLMs) to cloud deployment. I transform data into impactful business solutions.
+[![Visits Badge](https://badges.pufler.dev/visits/davidcamilo0710/davidcamilo0710)](https://badges.pufler.dev/visits/davidcamilo0710/davidcamilo0710)
+<h1 align="center"><b>Hi, I'm David Muñoz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=3670A0&size=25&center=true&vCenter=true&width=800&height=100&lines=Senior+Data+Scientist;AI+Specialist;MLOps+Engineer;Passionate+about+building+intelligent+systems"></a>
 </p>
 
-</div>
+---
+
+### 👨‍💻 About Me
+
+I'm a **Senior Data Scientist and AI Specialist** passionate about designing, developing, and deploying end-to-end AI solutions. My expertise covers the full **MLOps lifecycle**, including Deep Learning, Large Language Models (LLMs), and cloud-native architectures.
+
+- 🔭 I’m currently building projects focused on **Generative AI** and scalable **MLOps pipelines**.
+- 🌱 I’m always deepening my knowledge in **Distributed Systems for AI** and advanced cloud technologies.
+- 💬 Ask me about **Python, MLOps, AWS/Azure, or building AI-powered applications**.
 
 ---
+
+### 📫 Let's Connect:
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidcamilo0710/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:davidcamilo0710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://grefox.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
+  <a href="http://discordapp.com/users/611348105652207623" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 My Tech Stack
+
+#### 🤖 AI & Machine Learning
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+#### 🛠️ Data Engineering & MLOps
+<p align="center">
+    <img src="https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonsagemaker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/n8n-1A825A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+#### ☁️ Cloud Architecture & DevOps
+<p align="center">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
+#### 💻 Programming & Databases
+<p align="center">
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  🔭 I’m currently building end-to-end projects focused on MLOps and Generative AI. <br>
-  🌱 I’m always deepening my knowledge in Distributed Systems for AI and advanced NLP techniques. <br>
-  💬 Ask me about Python, MLOps, Deep Learning, or building AI-powered applications.
+  <a href="https://github.com/davidcamilo0710">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcamilo0710&show_icons=true&theme=dark&locale=en" alt="davidcamilo0710" />
+  </a>
+  <a href="https://github.com/davidcamilo0710">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcamilo0710&layout=compact&theme=dark&locale=en" alt="davidcamilo0710" />
+  </a>
 </p>
 
-<div align="center">
-  <a href="mailto:davidcamilo0710@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/davidcamilo0710/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="grefox.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  />
-  </a>
-</div>
-
 ---
 
-## 🚀 My Tech Stack
+### 🎧 Spotify Playing
 
-<br>
-
-<h3 align="center">🤖 AI & Machine Learning</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="35" alt="tensorflow logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="scikit learn logo" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="35" alt="pytorch logo" />
-  <img src="https://user-images.githubusercontent.com/25181517/183897040-2de41d93-3224-4379-885b-333f47388d3a.png" height="35" alt="Hugging Face" />
-  <img src="https://user-images.githubusercontent.com/25181517/183898168-244fbf0c-6623-485a-a36c-9a4891823737.png" height="35" alt="LangChain" />
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="35" alt="Spark" />
-  <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="35" alt="opencv logo" />
-</div>
-
-<h3 align="center">🛠️ Data Engineering & MLOps</h3>
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="35" alt="googlecloud logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="airflow logo" />
-  <img src="https://user-images.githubusercontent.com/25181517/186895992-f018f435-9273-424a-b586-7a7101686958.png" height="35" alt="n8n" />
-  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="35" alt="powerbi logo" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="35" alt="tableau logo" />
-</div>
-
-<h3 align="center">💻 Programming & Databases</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="35" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-</div>
-
-<h3 align="center">☁️ Cloud Architecture & DevOps</h3>
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="35" alt="docker logo" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="35" alt="kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="35" alt="terraform" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="35" alt="jenkins" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35" alt="github" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/lhoqexv8094se5tu0sxjz4y3t">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lhoqexv8094se5tu0sxjz4y3t&count=2" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/lhoqexv8094se5tu0sxjz4y3t">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lhoqexv8094se5tu0sxjz4y3t&count=5" alt="David's Spotify" />
+  </a>
+</p>
