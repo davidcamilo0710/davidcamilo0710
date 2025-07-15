@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm David Muñoz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm David Camilo Muñoz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=3670A0&size=25&center=true&vCenter=true&width=800&height=100&lines=Senior+Data+Scientist;AI+Specialist;MLOps+Engineer;Passionate+about+building+intelligent+systems"></a>
 </p>
@@ -51,8 +51,8 @@ I'm a **Senior Data Scientist and AI Specialist** passionate about designing, de
 
 #### ☁️ Cloud Architecture & DevOps
 <p align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -85,6 +85,6 @@ I'm a **Senior Data Scientist and AI Specialist** passionate about designing, de
 
 <p align="center">
   <a href="https://open.spotify.com/user/lhoqexv8094se5tu0sxjz4y3t">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lhoqexv8094se5tu0sxjz4y3t&count=5" alt="David's Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lhoqexv8094se5tu0sxjz4y3t&count=2" alt="David's Spotify" />
   </a>
 </p>
